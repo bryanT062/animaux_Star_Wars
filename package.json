@@ -1,0 +1,23 @@
+{
+  "name": "animaux_star_wars",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanT062/animaux_Star_Wars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryanT062/animaux_Star_Wars/issues"
+  },
+  "homepage": "https://github.com/bryanT062/animaux_Star_Wars#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
